@@ -4,10 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.docker</groupId>
-	<artifactId>dockerdemo</artifactId>
+	<artifactId>dev</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
 	<name>dockerdemo</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -79,6 +78,4 @@
 		</plugins>
 		<finalName>dockerdemo</finalName>
 	</build>
-
-
 </project>
